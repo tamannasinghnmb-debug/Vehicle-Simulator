@@ -49,7 +49,7 @@ It demonstrates how real-world motion principles can be translated into code.
 
 ## 📸 Output
 
-(Add a screenshot here after running your code)
+![Simulator Output](vehiclesimulatoroutput.png)
 
 
 ---
